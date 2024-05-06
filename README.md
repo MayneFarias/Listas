@@ -10,7 +10,7 @@
 <body>
     <H1>Listas ordenadas</H1>
     <ol>
-<li>Acordar as hrs </li>
+<li>Acordar as 9 hrs </li>
 <li>Escovar os dentes</li>
 <li>Tomar banho</li> 
 <li>Ir para o curso</li>
@@ -19,7 +19,7 @@
     <ul>
         <li>Comprar Azeitona </li>
 <li>Comprar banana</li>
-<li>Comprar manga</li> 
+<li>Comprar limão</li> 
 <li>comprar cenoura</li>
     </ul>
 </body>
