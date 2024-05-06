@@ -1,7 +1,5 @@
 # primeiro-projeto
  Lista
-<!Rotinahtml>
-<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compartible" content=" chrome=1
